@@ -1,4 +1,4 @@
--- I code sometime !
+--> Py <---
 
 <!---
 nexusjr09/nexusjr09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
