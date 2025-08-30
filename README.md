@@ -1,4 +1,4 @@
-![Backend](https://img.shields.io/badge/Backend-6f42c1?style=flat&logo=backend&logoColor=white)
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
