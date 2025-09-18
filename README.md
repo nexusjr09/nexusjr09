@@ -8,3 +8,7 @@ WORKING IN :
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-ED8B00?logo=flask&logoColor=white)
 
+
+ 
+ 🟢 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
