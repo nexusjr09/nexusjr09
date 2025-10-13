@@ -1,5 +1,7 @@
 
-![](https://github-contributor-stats.vercel.app/api?username=nexusjr09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```bash
+vigyan@github:~$ ./welcome.sh
+```
 
 ### IN STACK 
 
